@@ -1,0 +1,33 @@
+body {
+    background-color: silver;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #D3D3D3;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-image : url("sample01.jpg");
+    background-color: black;
+    color: white;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-image : url("sample01.jpg");
+    color: white;
+}
